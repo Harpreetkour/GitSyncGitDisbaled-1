@@ -2,3 +2,5 @@ AWSTemplateFormatVersion: 2010-09-09
 Resources:
   Test1:
     Type: 'AWS::S3::Bucket'
+  Test1:
+    Type: 'AWS::S3::Bucket'
