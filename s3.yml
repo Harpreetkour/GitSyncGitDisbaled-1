@@ -4,5 +4,3 @@ Resources:
     Type: 'AWS::S3::Bucket'
   Test2:
     Type: 'AWS::S3::Bucket'
-  Test3:
-    Type: 'AWS::S3::Bucket'
